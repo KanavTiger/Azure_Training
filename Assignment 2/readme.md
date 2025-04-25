@@ -24,10 +24,10 @@ This repository contains a Flask-based API for house price prediction. The model
     * Update the *blob_connection_string* variable in *app.py* with the correct connection string.
 
 ## Code Structure:
-Here is the structure of files:
-    * **app.py:** The main Flask app file that contains the logic for loading the model, the prediction endpoint, and logging.
-    * **requirements.txt:** The list of Python packages required to run the app.
-    * **README.md:** This file, which provides instructions on how to set up and use the app.
+
+* **app.py:** The main Flask app file that contains the logic for loading the model, the prediction endpoint, and logging.
+* **requirements.txt:** The list of Python packages required to run the app.
+* **README.md:** This file, which provides instructions on how to set up and use the app.
 
 
 ## Important Notes
